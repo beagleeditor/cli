@@ -1,3 +1,5 @@
+![BeagleEditor's poster](./assets/Poster.png)
+
 # BeagleEditor CLI
 BeagleEditor CLI is back! with memory-safety and performance!
 
