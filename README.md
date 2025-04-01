@@ -15,10 +15,8 @@ cargo install beagleeditor-cli
 
 ## Keyboard shortcuts
 
-|-------------------|-----------------|
 | Keyboard shortcut |     Action      |
 |-------------------|-----------------|
 |      Ctrl + S     |    Save file    |
 |      Ctrl + F     |      Find       |
 |      Ctrl + Q     |      Quit       |
-|-------------------------------------|
