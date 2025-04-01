@@ -1,8 +1,10 @@
 [package]
 name = "beagleeditor-cli"
+description = "BeagleEditor CLI is back! with memory-safety and performance!"
 version = "0.1.0"
 authors = ["Mani Arasteh <mani.arasteh92@gmail.com"]
 edition = "2021"
+license = "MIT"
 
 [[bin]]
 name = "becli"
